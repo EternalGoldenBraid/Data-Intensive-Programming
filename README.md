@@ -7,3 +7,4 @@ method
 ## Bonus tasks
 •Functional style, efficiency, dirty data, 
 pipelining, visualization 
+- Testing with spark
